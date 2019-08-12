@@ -1,0 +1,7 @@
+{
+  "appId": "com.chatroom.ionic",
+  "appName": "ionic-firebase-chatroom",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

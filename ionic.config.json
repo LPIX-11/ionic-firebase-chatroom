@@ -1,5 +1,7 @@
 {
   "name": "ionic-firebase-chatroom",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
